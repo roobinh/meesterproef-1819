@@ -480,7 +480,7 @@ _Alle technieken die ik bij de meesterproef wil gaan toepassen_
  
 - [web-design](https://github.com/roobinh/css-to-the-rescue-1819)
   
-  We gaan proberen zo veel mogelijk rekening te houden met kleurenschemas en veel tests laten doen door andere mensen. Omdat slechtziende mensen niet mogen rijden, is het niet nodig de site ook voor blinde mensen accessible te maken.
+We gaan proberen zo veel mogelijk rekening te houden met kleurenschemas en veel tests laten doen door andere mensen. Omdat slechtziende mensen niet mogen rijden, is het niet nodig de site ook voor blinde mensen accessible te maken.
 
 - [css-to-the-resque](https://github.com/roobinh/css-to-the-rescue-1819)
   
@@ -497,6 +497,13 @@ Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verd
 
 ## 4. Reflectie (met rubric)
 _In dit hoofdstuk reflecteer ik op mijn leerdoelen hierboven, met behulp van de rubrics._
+
+**Web App From Scratch**
+| CRITERIA                                                                                                                                                                                 | BEHAALD                                                                                                                                   | OPMERKINGEN                                                                                                                                                                                              |   |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+| DE CODE BEVAT GEEN SYNTAXFOUTEN EN IS NETJES OPGEMAAKT                                                                                                                                   | Je code is redelijk netjes maar je kunt hier en daar wat meer consistent zijn in notatiewijze / structuur                                 | Voor mijn idee heb ik in 4 week tijd een mooie applicatie neergezet met duidelijke/nette code. Hier en daar had het met meer tijd netter gekund                                                          |   |   |
+| Er is minimaal gebruik gemaakt van een IIFE en Object Literals om structuur, in de vorm van modules, aan te brengen aan de code en onnodige vervuiling van de globale scope te voorkomen | Je heb ingewikkelde principes die niet in de les behandeld zijn toegepast. Je hebt zelf onderzoek gedaan en bent diep in materie gedoken. | Er wordt gebruik gemaakt van IIFE's waar mogelijk. Ook heb ik tijdens de opdracht veel geleerd, zoals GraphQL, Multer en nog beter Express.                                                              |   |   |
+| JSON data kan, minimaal met de methodes; map, filter en reduce worden gemanipuleerd                                                                                                      | Je hebt andere slimme methodes gebruikt om JSON data te manipuleren                                                                       | Door GraphQL te gebruiken is het niet nodig data extreem te manipuleren, maar het opzetten van GraphQL is wel veel moeite. Alle data (zoals palen & meldingen) wordt netjes gemanipuleerd & weergegeven. |   |   |
 
 
 
