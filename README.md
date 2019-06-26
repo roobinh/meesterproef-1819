@@ -29,5 +29,5 @@ _Alle technieken die ik bij de meesterproef heb toegepast_
 ## 3. Go To
 1. [De applicatie](https://github.com/roobinh/meesterproef-laadpaal) (Meldpaal)
 1. [design-rationale](https://laadpaal.gitbook.io/de-meldpaal-design-rationale/) (voor alle informatie over de applicatie)
-2. [productbiografie](https://github.com/roobinh/meesterproef-1819/blob/master/product-biografie/product-biografie.md) (voor alle informatie over de ontwikkeling van de app)
-3. [reflectie](https://github.com/roobinh/meesterproef-1819/blob/master/reflectie/reflectie.md) (persoonlijke reflectie op de meesterproef)
+2. [productbiografie](https://github.com/roobinh/meesterproef-1819/blob/master/verslagen/product-biografie.md) (voor alle informatie over de ontwikkeling van de app)
+3. [reflectie](https://github.com/roobinh/meesterproef-1819/blob/master/verslagen/reflectie.md) (persoonlijke reflectie op de meesterproef)
