@@ -6,10 +6,18 @@ _Mijn persoonlijke repository van de cmda-minor-web meesterproef_
 ## Introductie
 Tijdens de minor Web-Development aan de Hogeschool van Amsterdam hebben we veel geleerd, en dit sluiten we daarom af met een meesterproef. De meesterproef is een project waar we de laatste 5 week van onze minor mee bezig zijn. Hierin passen we zo veel mogelijk geleerde technieken toe om een web app te bouwen. Onze meesterproef betreft een applicatie voor meldingen over laadpalen.
 
-## Focus Points
-komt nog
+Alle documentatie over de meesterproef wordt in deze repository behandeld.
+1. [design-rationale](https://laadpaal.gitbook.io/de-meldpaal-design-rationale/) (alle informatie over de applicatie)
+2. [productbiografie](https://github.com/roobinh/meesterproef-1819/blob/master/product-biografie/README.md) (alle informatie over de ontwikkeling van de app)
+3. [reflectie](https://github.com/roobinh/meesterproef-1819/blob/master/reflectie/README.md) (persoonlijke reflectie op de meesterproef)
 
-## Go To
-1. [design-rationale](https://laadpaal.gitbook.io/de-meldpaal-design-rationale/)
-2. [productbiografie](https://github.com/roobinh/meesterproef-1819/blob/master/product-biografie/README.md)
-3. [reflectie](https://github.com/roobinh/meesterproef-1819/blob/master/reflectie/README.md)
+## Focus Points
+- [web-app-from-scratch](https://github.com/roobinh/web-app-from-scratch-18-19)
+
+- [css-to-the-resque](https://github.com/roobinh/css-to-the-rescue-1819)
+
+- [browser-technology](https://github.com/roobinh/browser-technologies-1819)
+
+- [performance-matters](https://github.com/roobinh/performance-matters-1819)
+
+- [real-time-web](https://github.com/roobinh/real-time-web-1819)
