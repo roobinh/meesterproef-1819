@@ -493,10 +493,7 @@ We gaan op onze site op zo veel mogelijk plekken rekening houden met de performa
 
 - [real-time-web](https://github.com/roobinh/real-time-web-1819)
 
-Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verder gaan we een chat maken waarbij sockets gebruikt worden
-
-
-  
+Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verder gaan we een chat maken waarbij sockets gebruikt worden. 
 
 
 ## 4. Reflectie (met rubric)

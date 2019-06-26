@@ -13,4 +13,3 @@ Onze applicatie gaat over de laadpalen in Amsterdam. Omdat er in 2030 alleen ele
 2. [Meldpaal - Github](https://github.com/roobinh/meesterproef-laadpaal) (Repository)
 3. [design-rationale](https://laadpaal.gitbook.io/de-meldpaal-design-rationale/) (voor alle informatie over de applicatie)
 4. [productbiografie](https://github.com/roobinh/meesterproef-1819/blob/master/verslagen/product-biografie.md) (voor alle informatie over de ontwikkeling van de app)
-5. [reflectie](https://github.com/roobinh/meesterproef-1819/blob/master/verslagen/reflectie.md) (persoonlijke reflectie op de meesterproef)
