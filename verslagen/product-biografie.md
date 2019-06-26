@@ -10,7 +10,7 @@ _Productbiografie van [De Meldpaal](https://github.com/roobinh/meesterproef-1819
    - 2.4 - Week 4
    - 2.5 - Week 5
 3. [Leerdoelen](#3)
-4. [Reflectie (+ rubric)](#4)
+4. [Reflectie (met rubric)](#4)
 
 ## 1. Inleiding
 In dit verslag behandel ik de ontwikkeling van niks tot eindproduct van [De Meldpaal](https://github.com/roobinh/meesterproef-laadpaal). Ik heb het proces opgedeeld in 5 stukken, namelijk de 5 weken dat we ([Jim van der Ven](https://github.com/JimvandeVen) & ik) met de applicatie bezig zijn geweest. Hierin heb ik 60% van de back-end gedaan, en Jim 60% van de front-end. Dit omdat ik meer verstand van back-end heb en Jim meer van front-end, maar we ook wat willen leren van het project. 
@@ -498,26 +498,26 @@ Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verd
 ## 4. Reflectie (met rubric)
 _In dit hoofdstuk reflecteer ik op mijn leerdoelen hierboven, met behulp van de rubrics._
 
-**web-app-from-scratch**
+- **web-app-from-scratch**
 
 <img src="https://i.ibb.co/cF39BhG/image.png">
 
-**css-to-the-resque**
+- **css-to-the-resque**
 
 <img src="https://i.ibb.co/KWgvtY4/image.png">
 
 
-**web-design**
+- **web-design**
 
 Omdat er van web-design geen rubrik te vinden is, kan ik die helaas niet gebruiken. Wel hebben we rekening gehouden met veel mensen, veel getest en scoort onze site een 94 op accessability:
 
 <img src="https://i.ibb.co/Mst3qbq/image.png">
 
-**performance-matters**
+- **performance-matters**
 
-Helaas werkt onze site niet zonder Javascript en hebben we geen tijd gehad voor een Service Worker. Wel wordt de website (met alle data) super snel server-side gerenderd en is er gebruik gemaakt van clusters om de performance drastisch te verbeteren.
+Helaas werkt onze site niet zonder Javascript en hebben we geen tijd gehad voor een Service Worker. Wel wordt de website (met alle data) super snel server-side gerenderd en is er gebruik gemaakt van bijvoorbeeld clusters om de performance drastisch te verbeteren.
 
-**real-time-web**
+- **real-time-web**
 
 <img src="https://i.ibb.co/KqVFt7j/image.png">
 
