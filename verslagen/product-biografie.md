@@ -10,7 +10,7 @@ _Productbiografie van [De Meldpaal](https://github.com/roobinh/meesterproef-1819
    - 2.4 - Week 4
    - 2.5 - Week 5
 3. [Leerdoelen](#3)
-4. [Reflectie (en rubric)](#4)
+4. [Reflectie (+ rubric)](#4)
 
 ## 1. Inleiding
 In dit verslag behandel ik de ontwikkeling van niks tot eindproduct van [De Meldpaal](https://github.com/roobinh/meesterproef-laadpaal). Ik heb het proces opgedeeld in 5 stukken, namelijk de 5 weken dat we ([Jim van der Ven](https://github.com/JimvandeVen) & ik) met de applicatie bezig zijn geweest. Hierin heb ik 60% van de back-end gedaan, en Jim 60% van de front-end. Dit omdat ik meer verstand van back-end heb en Jim meer van front-end, maar we ook wat willen leren van het project. 
@@ -473,26 +473,39 @@ De laatste week. In deze week hebben we niet veel meer aangepast aan de app. All
 
 ## 3. Leerdoelen
 
-_Alle technieken die ik bij de meesterproef heb toegepast_
+_Alle technieken die ik bij de meesterproef heb willen toepassen_
 
 - [web-app-from-scratch](https://github.com/roobinh/web-app-from-scratch-18-19)
-
-
+ 
+ Web app from scratch gaat vooral om het aanbrengen van structuur in je code & data ophalen/manipuleren. Tijdens dit project ga ik werken met twee nieuwe technieken (GraphQL & MongoDB), nettere code proberen te schrijven en gebruik maken van IIFE's waar nodig.
+ 
+- [web-design](https://github.com/roobinh/css-to-the-rescue-1819)
+  
+  We gaan proberen zo veel mogelijk rekening te houden met kleurenschemas en veel tests laten doen door andere mensen.
 
 - [css-to-the-resque](https://github.com/roobinh/css-to-the-rescue-1819)
-
-
-
-- [browser-technology](https://github.com/roobinh/browser-technologies-1819)
-
-
+- 
+Omdat ik niet goed ben in het stylen van sites, vind ik het belangrijk zelf ook styling te doen op onze site. 
 
 - [performance-matters](https://github.com/roobinh/performance-matters-1819)
 
-
+We gaan op onze site op zo veel mogelijk plekken rekening houden met de performance. Het gebruiken van een kaart en client-side javascript moet zo soepel mogelijk lopen, ook op langzaam internet.
 
 - [real-time-web](https://github.com/roobinh/real-time-web-1819)
+
+Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verder gaan we een chat maken waarbij sockets gebruikt worden
+
+
   
 
 
-## 4. Reflectie (en rubric)
+## 4. Reflectie (met rubric)
+
+css
+o heb ik de mapbox, mijn meldingen en chatpagina gemaakt.
+
+performance
+We hebben op onze site op meerdere plekken rekening gehouden met performance. Zo hebben we clusters, een server-side rendering webpagina en halen we data op vanuit de server, renderen het en sturen het dan pas naar de client.
+
+realtimeweb
+Het liefst hadden we real-time data van palen, maar helaas was dit niet mogelijk. Wel worden bij elke reload opnieuw alle palen en data opgehaald. Ook wordt er gebruik gemaakt van sockets om te chatten met het dashboard.
