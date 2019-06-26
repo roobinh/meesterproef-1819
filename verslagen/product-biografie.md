@@ -9,7 +9,8 @@ _Productbiografie van [De Meldpaal](https://github.com/roobinh/meesterproef-1819
    - 2.3 - Week 3
    - 2.4 - Week 4
    - 2.5 - Week 5
-3. [Leerdoelen & Rubric](#3)
+3. [Leerdoelen](#3)
+4. [Reflectie (en rubric)](#4)
 
 ## 1. Inleiding
 In dit verslag behandel ik de ontwikkeling van niks tot eindproduct van [De Meldpaal](https://github.com/roobinh/meesterproef-laadpaal). Ik heb het proces opgedeeld in 5 stukken, namelijk de 5 weken dat we ([Jim van der Ven](https://github.com/JimvandeVen) & ik) met de applicatie bezig zijn geweest. Hierin heb ik 60% van de back-end gedaan, en Jim 60% van de front-end. Dit omdat ik meer verstand van back-end heb en Jim meer van front-end, maar we ook wat willen leren van het project. 
@@ -470,40 +471,28 @@ _24/06 - 28/06_
 
 De laatste week. In deze week hebben we niet veel meer aangepast aan de app. Alleen wat kleine UX changes (zoals onboarding) en bug fixes. We zijn vooral bezig geweest met alle documentatie. 
 
-## 3. Leerdoelen & Rubric
-
-_Hieronder mijn leerdoelen van dit project_
-
-Web-app-from-scratch
-•	Precies wat we nu aan het maken 
-•	Er zijn niet veel technieken uit web-app-from-scratch die we toepassen (behalve het gebruik van een API), maar wel een web applicatie die we from scratch bouwen.
-
-Css-to-the-resque
-•	Uiteraard gebruiken wij ook CSS om onze website te stylen
-•	Ik gebruik deze techniek iets minder, jim iets meer (omdat ik de back-end doe)
-•	Dit betekend niet dat ik niks aan de lay-out ga doen
-
-Browser-tech
-•	Omdat het belangrijk is dat onze website zo makkelijk mogelijk te gebruiken is, en ook nog goed werkt als je een langzame verbinding hebt gaan we hier goed over nadenken. We zaten aan aan online formulier te denken
-
-Performance-matters
-•	Uiteraard gaan we ook druk met de performance van de site bezig
-•	Heel veel technieken uit performance matters gaan we toepassen
-
-Real-time-web
-•	Omdat we van onze applicatie ook een progressive-web app gaan maken
-•	En we gaan een service worker installeren voor notificaties
+## 3. Leerdoelen
 
 _Alle technieken die ik bij de meesterproef heb toegepast_
 
 - [web-app-from-scratch](https://github.com/roobinh/web-app-from-scratch-18-19)
 
+
+
 - [css-to-the-resque](https://github.com/roobinh/css-to-the-rescue-1819)
+
+
 
 - [browser-technology](https://github.com/roobinh/browser-technologies-1819)
 
+
+
 - [performance-matters](https://github.com/roobinh/performance-matters-1819)
 
-- [real-time-web](https://github.com/roobinh/real-time-web-1819)
-- 
 
+
+- [real-time-web](https://github.com/roobinh/real-time-web-1819)
+  
+
+
+## 4. Reflectie (en rubric)
