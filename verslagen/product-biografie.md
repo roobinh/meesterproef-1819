@@ -12,6 +12,8 @@ _Productbiografie van [De Meldpaal](https://github.com/roobinh/meesterproef-1819
 3. [Leerdoelen](#3)
 4. [Reflectie (met rubric)](#4)
 
+<a href="1">
+
 ## 1. Inleiding
 In dit verslag behandel ik de ontwikkeling van niks tot eindproduct van [De Meldpaal](https://github.com/roobinh/meesterproef-laadpaal). Ik heb het proces opgedeeld in 5 stukken, namelijk de 5 weken dat we ([Jim van der Ven](https://github.com/JimvandeVen) & ik) met de applicatie bezig zijn geweest. Hierin heb ik 60% van de back-end gedaan, en Jim 60% van de front-end. Dit omdat ik meer verstand van back-end heb en Jim meer van front-end, maar we ook wat willen leren van het project. 
 
