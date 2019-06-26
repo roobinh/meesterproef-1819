@@ -506,9 +506,6 @@ _In dit hoofdstuk reflecteer ik op mijn leerdoelen hierboven, met behulp van de 
 | JSON data kan, minimaal met de methodes; map, filter en reduce worden gemanipuleerd                                                                                                      | Je hebt andere slimme methodes gebruikt om JSON data te manipuleren                                                                       | Door GraphQL te gebruiken is het niet nodig data extreem te manipuleren, maar het opzetten van GraphQL is wel veel moeite. Alle data (zoals palen & meldingen) wordt netjes gemanipuleerd & weergegeven. |   |   |
 
 
-
-
-
 css
 o heb ik de mapbox, mijn meldingen en chatpagina gemaakt.
 
