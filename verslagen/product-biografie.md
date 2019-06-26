@@ -500,16 +500,16 @@ _In dit hoofdstuk reflecteer ik op mijn leerdoelen hierboven, met behulp van de 
 
 **web-app-from-scratch**
 
-<img src="https://i.ibb.co/cF39BhG/image.png" height="500px">
+<img src="https://i.ibb.co/cF39BhG/image.png">
 
 **css-to-the-resque**
 
-<img src="https://i.ibb.co/KWgvtY4/image.png" height="500px">
+<img src="https://i.ibb.co/KWgvtY4/image.png">
 
 
 **web-design**
 
-Omdat er van web-design geen rubrik te vinden is, kan ik die helaas niet gebruiken. Wel hebben we rekening gehouden met veel soorten mensen en scoort onze site een 94 op accessability:
+Omdat er van web-design geen rubrik te vinden is, kan ik die helaas niet gebruiken. Wel hebben we rekening gehouden met veel mensen, veel getest en scoort onze site een 94 op accessability:
 
 <img src="https://i.ibb.co/Mst3qbq/image.png">
 
