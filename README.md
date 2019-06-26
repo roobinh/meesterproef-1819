@@ -1,7 +1,7 @@
 # Meesterproef 2019 @cmda-minor-web · 2018-2019
-_My personal repository for the cmda-minor-web 'meesterproef'_
+_Mijn persoonlijke repository van de cmda-minor-web meesterproef_
 
-<img src="https://i.ibb.co/Lzv6CW9/image.png" heigth="200px">
+<img src="https://i.ibb.co/Lzv6CW9/image.png" height="400px">
 
 ## Jump To
 1. [design-rationale](https://laadpaal.gitbook.io/de-meldpaal-design-rationale/)
