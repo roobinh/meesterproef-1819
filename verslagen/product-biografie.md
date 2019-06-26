@@ -472,8 +472,7 @@ _24/06 - 28/06_
 De laatste week. In deze week hebben we niet veel meer aangepast aan de app. Alleen wat kleine UX changes (zoals onboarding) en bug fixes. We zijn vooral bezig geweest met alle documentatie. 
 
 ## 3. Leerdoelen
-
-_Alle technieken die ik bij de meesterproef heb willen toepassen_
+_Alle technieken die ik bij de meesterproef wil gaan toepassen_
 
 - [web-app-from-scratch](https://github.com/roobinh/web-app-from-scratch-18-19)
  
@@ -481,11 +480,11 @@ _Alle technieken die ik bij de meesterproef heb willen toepassen_
  
 - [web-design](https://github.com/roobinh/css-to-the-rescue-1819)
   
-  We gaan proberen zo veel mogelijk rekening te houden met kleurenschemas en veel tests laten doen door andere mensen.
+  We gaan proberen zo veel mogelijk rekening te houden met kleurenschemas en veel tests laten doen door andere mensen. Omdat slechtziende mensen niet mogen rijden, is het niet nodig de site ook voor blinde mensen accessible te maken.
 
 - [css-to-the-resque](https://github.com/roobinh/css-to-the-rescue-1819)
-- 
-Omdat ik niet goed ben in het stylen van sites, vind ik het belangrijk zelf ook styling te doen op onze site. 
+  
+Omdat ik niet goed ben in het stylen van sites, vind ik het belangrijk zelf ook styling te doen op onze site. Hier ga ik dan ook, naast de back-end, zo veel mogelijk mee bezig.
 
 - [performance-matters](https://github.com/roobinh/performance-matters-1819)
 
@@ -497,6 +496,11 @@ Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verd
 
 
 ## 4. Reflectie (met rubric)
+_In dit hoofdstuk reflecteer ik op mijn leerdoelen hierboven, met behulp van de rubrics._
+
+
+
+
 
 css
 o heb ik de mapbox, mijn meldingen en chatpagina gemaakt.
