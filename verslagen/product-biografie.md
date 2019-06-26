@@ -477,14 +477,14 @@ _Alle technieken die ik bij de meesterproef wil gaan toepassen_
 - [web-app-from-scratch](https://github.com/roobinh/web-app-from-scratch-18-19)
  
  Web app from scratch gaat vooral om het aanbrengen van structuur in je code & data ophalen/manipuleren. Tijdens dit project ga ik werken met twee nieuwe technieken (GraphQL & MongoDB), nettere code proberen te schrijven en gebruik maken van IIFE's waar nodig.
- 
-- [web-design](https://github.com/roobinh/css-to-the-rescue-1819)
-  
-We gaan proberen zo veel mogelijk rekening te houden met kleurenschemas en veel tests laten doen door andere mensen. Omdat slechtziende mensen niet mogen rijden, is het niet nodig de site ook voor blinde mensen accessible te maken.
 
 - [css-to-the-resque](https://github.com/roobinh/css-to-the-rescue-1819)
   
 Omdat ik niet goed ben in het stylen van sites, vind ik het belangrijk zelf ook styling te doen op onze site. Hier ga ik dan ook, naast de back-end, zo veel mogelijk mee bezig.
+
+- [web-design](https://github.com/roobinh/css-to-the-rescue-1819)
+  
+We gaan proberen zo veel mogelijk rekening te houden met kleurenschemas en veel tests laten doen door andere mensen. Omdat slechtziende mensen niet mogen rijden, is het niet nodig de site ook voor blinde mensen accessible te maken.
 
 - [performance-matters](https://github.com/roobinh/performance-matters-1819)
 
@@ -498,19 +498,26 @@ Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verd
 ## 4. Reflectie (met rubric)
 _In dit hoofdstuk reflecteer ik op mijn leerdoelen hierboven, met behulp van de rubrics._
 
-**Web App From Scratch**
-| CRITERIA                                                                                                                                                                                 | BEHAALD                                                                                                                                   | OPMERKINGEN                                                                                                                                                                                              |   |   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| DE CODE BEVAT GEEN SYNTAXFOUTEN EN IS NETJES OPGEMAAKT                                                                                                                                   | Je code is redelijk netjes maar je kunt hier en daar wat meer consistent zijn in notatiewijze / structuur                                 | Voor mijn idee heb ik in 4 week tijd een mooie applicatie neergezet met duidelijke/nette code. Hier en daar had het met meer tijd netter gekund                                                          |   |   |
-| Er is minimaal gebruik gemaakt van een IIFE en Object Literals om structuur, in de vorm van modules, aan te brengen aan de code en onnodige vervuiling van de globale scope te voorkomen | Je heb ingewikkelde principes die niet in de les behandeld zijn toegepast. Je hebt zelf onderzoek gedaan en bent diep in materie gedoken. | Er wordt gebruik gemaakt van IIFE's waar mogelijk. Ook heb ik tijdens de opdracht veel geleerd, zoals GraphQL, Multer en nog beter Express.                                                              |   |   |
-| JSON data kan, minimaal met de methodes; map, filter en reduce worden gemanipuleerd                                                                                                      | Je hebt andere slimme methodes gebruikt om JSON data te manipuleren                                                                       | Door GraphQL te gebruiken is het niet nodig data extreem te manipuleren, maar het opzetten van GraphQL is wel veel moeite. Alle data (zoals palen & meldingen) wordt netjes gemanipuleerd & weergegeven. |   |   |
+**web-app-from-scratch**
+
+<img src="https://i.ibb.co/cF39BhG/image.png" height="500px">
+
+**css-to-the-resque**
+
+<img src="https://i.ibb.co/KWgvtY4/image.png" height="500px">
 
 
-css
-o heb ik de mapbox, mijn meldingen en chatpagina gemaakt.
+**web-design**
 
-performance
-We hebben op onze site op meerdere plekken rekening gehouden met performance. Zo hebben we clusters, een server-side rendering webpagina en halen we data op vanuit de server, renderen het en sturen het dan pas naar de client.
+Omdat er van web-design geen rubrik te vinden is, kan ik die helaas niet gebruiken. Wel hebben we rekening gehouden met veel soorten mensen en scoort onze site een 94 op accessability:
 
-realtimeweb
-Het liefst hadden we real-time data van palen, maar helaas was dit niet mogelijk. Wel worden bij elke reload opnieuw alle palen en data opgehaald. Ook wordt er gebruik gemaakt van sockets om te chatten met het dashboard.
+<img src="https://i.ibb.co/Mst3qbq/image.png">
+
+**performance-matters**
+
+Helaas werkt onze site niet zonder Javascript en hebben we geen tijd gehad voor een Service Worker. Wel wordt de website (met alle data) super snel server-side gerenderd en is er gebruik gemaakt van clusters om de performance drastisch te verbeteren.
+
+**real-time-web**
+
+<img src="https://i.ibb.co/KqVFt7j/image.png">
+
