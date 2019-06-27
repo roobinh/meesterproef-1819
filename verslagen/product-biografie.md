@@ -3,16 +3,16 @@ _Productbiografie van [De Meldpaal](https://github.com/roobinh/meesterproef-1819
 
 ## Inhoudsopgave
 - [Productbiografie - De Meldpaal](#Productbiografie---De-Meldpaal)
-  - [Inhoudsopgave](#Inhoudsopgave)
-  - [1. Inleiding](#1-Inleiding)
-  - [2. Het Proces](#2-Het-Proces)
+- [Inhoudsopgave](#Inhoudsopgave)
+- [1. Inleiding](#1-Inleiding)
+- [2. Het Proces](#2-Het-Proces)
   - [2.1 - Week 1](#21---Week-1)
   - [2.2 - Week 2](#22---Week-2)
   - [2.3 - Week 3](#23---Week-3)
   - [2.4 - Week 4](#24---Week-4)
   - [2.5 - Week 5](#25---Week-5)
-  - [3. Leerdoelen](#3-Leerdoelen)
-  - [4. Reflectie (met rubric)](#4-Reflectie-met-rubric)
+- [3. Leerdoelen](#3-Leerdoelen)
+- [4. Reflectie (met rubric)](#4-Reflectie-met-rubric)
 
 <a name="1"></a>
 
