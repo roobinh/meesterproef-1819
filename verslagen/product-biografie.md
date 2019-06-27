@@ -2,22 +2,28 @@
 _Productbiografie van [De Meldpaal](https://github.com/roobinh/meesterproef-1819)_
 
 ## Inhoudsopgave
-1. [Inleiding](#1)
-2. [Het Proces](#2)
-   - 2.1 - Week 1
-   - 2.2 - Week 2
-   - 2.3 - Week 3
-   - 2.4 - Week 4
-   - 2.5 - Week 5
-3. [Leerdoelen](#3)
-4. [Reflectie (met rubric)](#4)
+- [Productbiografie - De Meldpaal](#Productbiografie---De-Meldpaal)
+  - [Inhoudsopgave](#Inhoudsopgave)
+  - [1. Inleiding](#1-Inleiding)
+  - [2. Het Proces](#2-Het-Proces)
+  - [2.1 - Week 1](#21---Week-1)
+  - [2.2 - Week 2](#22---Week-2)
+  - [2.3 - Week 3](#23---Week-3)
+  - [2.4 - Week 4](#24---Week-4)
+  - [2.5 - Week 5](#25---Week-5)
+  - [3. Leerdoelen](#3-Leerdoelen)
+  - [4. Reflectie (met rubric)](#4-Reflectie-met-rubric)
 
-<a href="1">
+<a name="1"></a>
 
 ## 1. Inleiding
 In dit verslag behandel ik de ontwikkeling van niks tot eindproduct van [De Meldpaal](https://github.com/roobinh/meesterproef-laadpaal). Ik heb het proces opgedeeld in 5 stukken, namelijk de 5 weken dat we ([Jim van der Ven](https://github.com/JimvandeVen) & ik) met de applicatie bezig zijn geweest. Hierin heb ik 60% van de back-end gedaan, en Jim 60% van de front-end. Dit omdat ik meer verstand van back-end heb en Jim meer van front-end, maar we ook wat willen leren van het project. 
 
+<a name="2"></a>
+
 ## 2. Het Proces
+
+<a name="21"></a>
 
 ## 2.1 - Week 1
 _27/05 - 02/06_
@@ -62,6 +68,8 @@ Dinsdag was ook de eerste commit, namelijk de 'lege' NodeJS server. Ook was mong
 
 _(Omdat het dat weekend hemelvaart was, zijn we maandag verder gegaan)_
 
+<a name="22"></a>
+
 ## 2.2 - Week 2
 _03/06 - 09/06_
 
@@ -89,6 +97,7 @@ Einde week 2:
 - Styling inlogpagina
 - Styling melding maken
 
+<a name="23"></a>
 
 ## 2.3 - Week 3
 _10/06 - 16/06_
@@ -253,6 +262,7 @@ Einde week 3:
 - Mogelijk om een melding van een paal te maken
 - Mogelijkheid om 'jouw' meldingen te bekijken.
 
+<a name="24"></a>
 
 ## 2.4 - Week 4
 _17/06 - 23/06_
@@ -468,10 +478,14 @@ app.get('/account/melding/:id', authenticate, function(req, res, next) {
 ```
 </details>
 
+<a name="25"></a>
+
 ## 2.5 - Week 5
 _24/06 - 28/06_
 
 De laatste week. In deze week hebben we niet veel meer aangepast aan de app. Alleen wat kleine UX changes (zoals onboarding) en bug fixes. We zijn vooral bezig geweest met alle documentatie. 
+
+<a name="3"></a>
 
 ## 3. Leerdoelen
 _Alle technieken die ik bij de meesterproef wil gaan toepassen_
@@ -495,6 +509,8 @@ We gaan op onze site op zo veel mogelijk plekken rekening houden met de performa
 - [real-time-web](https://github.com/roobinh/real-time-web-1819)
 
 Als we real-time data van palen krijgen, gaan we dit in de kaart verwerken. Verder gaan we een chat maken waarbij sockets gebruikt worden. 
+
+<a name="4"></a>
 
 
 ## 4. Reflectie (met rubric)
